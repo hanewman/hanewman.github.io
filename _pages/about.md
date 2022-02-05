@@ -8,5 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a second year PhD candidate participating in the <a href="https://aco.math.cmu.edu/"> Algorithms, Combinatorics, and Optimization (ACO) </a> doctoral program (via math department) at Carnegie Mellon. I am fortunate to be advised by Prof. Ben Moseley. 
+Welcome! I am a second year PhD candidate participating in the unique interdisciplinary <a href="https://aco.math.cmu.edu/"> Algorithms, Combinatorics, and Optimization (ACO) </a> doctoral program (via math department) at Carnegie Mellon. I am fortunate to be advised by Prof. Ben Moseley. 
 
+I am currently doing research in theoretical computer science, with specific interests in approximation algorithms, randomized algorithms, and combinatorial optimization. 
+
+Before coming to CMU, I obtained an A.B. in Math from Princeton in 2019, followed by an M.Sc. in Mathematical Sciences from Oxford in 2020. 
+
+In my free time, I enjoy board games, musicals, reading, and learning arcane words. 
