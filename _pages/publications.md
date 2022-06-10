@@ -29,4 +29,4 @@ In the past, I have worked with Moon Duchin's <a href="https://mggg.org/"> Metri
 
 
 My undergraduate Princeton senior thesis on the roots of random polynomials: 
-
+<a href="{{ hanewman.github.io }}/_pages/thesis.pdf">  Limiting Distribution of the Complex Roots of Random Polynomials </a> 
