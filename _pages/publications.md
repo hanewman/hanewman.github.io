@@ -23,7 +23,7 @@ author_profile: true
  **Juvenilia**
  
  An exposition I wrote on the chromatic number of string graphs in fulfillment of requirements for the Oxford M.Sc.:
- {{ site.url }}/_pages/diss.pdf
+ {{ hanewman.github.io }}/_pages/diss.pdf
  
 In the past, I have worked with Moon Duchin's Metric Geometry and Gerrymandering Group, which is a team of Boston-based mathematicians bringing mathematics and computer science methods to bear on redistricting. Here is one fun study that came out of my work with this group. 
 
