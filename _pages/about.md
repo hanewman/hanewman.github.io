@@ -12,6 +12,6 @@ Welcome! I am a second year PhD candidate participating in the unique interdisci
 
 I am currently doing research in theoretical computer science, with specific interests in approximation algorithms, online algorithms, randomized algorithms, and combinatorial optimization. 
 
-Before coming to CMU, I obtained an A.B. in Math cum laude from Princeton in 2019, followed by an M.Sc. in Mathematical Sciences with distinction from Oxford in 2020. 
+Before coming to CMU, I obtained an A.B. in Math _cum laude_, with a minor in Computer Science, from Princeton in 2019, followed by an M.Sc. in Mathematical Sciences with Distinction from Oxford in 2020. 
 
 In my free time, I enjoy board games, musicals, reading, nuanced conversations, and learning arcane words. 
