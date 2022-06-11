@@ -22,10 +22,14 @@ author_profile: true
   
  **Juvenilia**
  
- An exposition I wrote on the chromatic number of string graphs in fulfillment of requirements for the Oxford M.Sc.: <a href="{{ hanewman.github.io }}/_pages/diss.pdf"> Chromatic Number of String Graphs </a>
+ An exposition I wrote on the chromatic number of string graphs in fulfillment of requirements for the Oxford M.Sc.: 
+ <a href="{{ hanewman.github.io }}/_pages/diss.pdf"> Chromatic Number of String Graphs </a>
  
 In the past, I have worked with Moon Duchin's <a href="https://mggg.org/"> Metric Geometry and Gerrymandering Group, </a> which is a team of Boston-based mathematicians bringing mathematics and computer science methods to bear on redistricting. Here is one fun study that came out of my work with this group: 
+
 <a href="{{ hanewman.github.io }}/_pages/elj.pdf">  Locating the Representational Baseline: Republicans in Massachusetts </a> in Election Law Journal 
 
 
-My undergraduate Princeton senior thesis on the roots of random polynomials: 
+My undergraduate senior thesis at Princeton on the roots of random polynomials: 
+ <a href="{{ hanewman.github.io }}/_pages/thesis.pdf"> Limiting Distribution of the Complex Roots of Random Polynomials </a>
+
