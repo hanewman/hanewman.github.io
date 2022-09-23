@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **CMU**
-* Spring 2021, 2022: 21-241 Matrices and Linear Transformation (Lead TA both terms)
+* Spring 2021, 2022, Fall 2022: 21-241 Matrices and Linear Transformation (Lead TA all terms)
 * Fall   2020, 2021: 21-120 Differential and Integral Calculus 
 
 **Tufts** (Guest TA)
