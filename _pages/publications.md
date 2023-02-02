@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+**Fast Combinatorial Algorithms for Min Max Correlation Clustering**
+with: Sami Davies and Benjamin Moseley 
+In submission. 
+ <a href="https://arxiv.org/abs/2301.13079"> arXiv January 2023 </a>
+
 **Matroid-Based TSP Rounding for Half-Integral Solutions**  
   with: Anupam Gupta, Euiwoong Lee, Jason Li, Marcin Mucha, and Sherry Sarkar  
   Integer Programming and Combinatorial Optimization <a href="https://www.ipco2022.com/home"> (**IPCO 2022**) </a>  
