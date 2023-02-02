@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %}
 
 **Fast Combinatorial Algorithms for Min Max Correlation Clustering**
-with: Sami Davies and Benjamin Moseley 
-In submission. 
+  with: Sami Davies and Benjamin Moseley 
+  In submission. 
  <a href="https://arxiv.org/abs/2301.13079"> arXiv January 2023 </a>
 
 **Matroid-Based TSP Rounding for Half-Integral Solutions**  
