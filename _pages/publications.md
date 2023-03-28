@@ -15,6 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+%ADD HYPERLINKS TO AUTHORS
+
+**Online k-Median with Consistent Clusters**  
+  with: Benjamin Moseley and Kirk Pruhs 
+   <a href="http://arxiv.org/abs/2303.15379"> arXiv March 2023 </a>
+   
+
 **Fast Combinatorial Algorithms for Min Max Correlation Clustering**  
   with: Sami Davies and Benjamin Moseley  
    <a href="https://arxiv.org/abs/2301.13079"> arXiv January 2023 </a>
