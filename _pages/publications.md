@@ -18,7 +18,7 @@ author_profile: true
 %ADD HYPERLINKS TO AUTHORS
 
 **Online k-Median with Consistent Clusters**  
-  with: Benjamin Moseley and Kirk Pruhs 
+  with: Benjamin Moseley and Kirk Pruhs  
    <a href="http://arxiv.org/abs/2303.15379"> arXiv March 2023 </a>
    
 
