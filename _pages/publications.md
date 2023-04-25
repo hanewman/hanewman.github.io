@@ -29,7 +29,7 @@ author_profile: true
 
 **Matroid-Based TSP Rounding for Half-Integral Solutions**  
   with: Anupam Gupta, Euiwoong Lee, Jason Li, Marcin Mucha, and Sherry Sarkar  
- <a href="https://link.springer.com/chapter/10.1007/978-3-031-06901-7_23"> **IPCO 2023** </a>,  <a href="https://arxiv.org/abs/2111.09290"> full version </a>, <a href="{{ hanewman.github.io }}/_pages/ipcoslides.pptx">  slides </a> 
+ <a href="https://link.springer.com/chapter/10.1007/978-3-031-06901-7_23"> **IPCO 2023** </a>,<a href="https://arxiv.org/abs/2111.09290"> full version </a>,<a href="{{ hanewman.github.io }}/_pages/ipcoslides.pptx">  slides </a> 
 
   
  **Juvenilia**
