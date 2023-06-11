@@ -15,3 +15,7 @@ I am currently doing research in theoretical computer science, with specific int
 Before coming to CMU, I received an A.B. in Math, with a minor in Computer Science, from Princeton in 2019, followed by an M.Sc. in Mathematical Sciences from Oxford in 2020. 
 
 In my free time, I enjoy board games, plays, reading, walks and runs, and learning new words. 
+
+**Service**
+I have served as a reviewer for AISTATS 2023, ICML 2023, APPROX 2023. I was a volunteer at STOC 2022. 
+I currently co-organize the weekly Meet-and-Think Seminar where ACO/OR PhD students, postdocs, and occasionally professors share their ongoing research. 
