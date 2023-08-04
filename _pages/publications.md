@@ -15,7 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
+**One Partition Approximating All $\ell_p$-norm Objectives in Correlation Clustering**
+   with: Sami Davies and Benjamin Moseley
+   <a href="https://arxiv.org/abs/2308.01534"> arXiv August 2023 </a>
+   
 
 **Online k-Median with Consistent Clusters**  
   with: Benjamin Moseley and Kirk Pruhs  
@@ -24,7 +27,7 @@ author_profile: true
 
 **Fast Combinatorial Algorithms for Min Max Correlation Clustering**  
   with: Sami Davies and Benjamin Moseley  
- **ICML 2023**,  <a href="https://arxiv.org/abs/2301.13079"> full version </a>
+ <a href="https://openreview.net/pdf?id=OUjObDqOM2"> **ICML 2023**
  
 
 **Matroid-Based TSP Rounding for Half-Integral Solutions**  
