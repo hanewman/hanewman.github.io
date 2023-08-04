@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 **One Partition Approximating All $\ell_p$-norm Objectives in Correlation Clustering**  
-   with: Sami Davies and Benjamin Moseley
+   with: Sami Davies and Benjamin Moseley  
    <a href="https://arxiv.org/abs/2308.01534"> arXiv August 2023 </a>
    
 
