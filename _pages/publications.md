@@ -17,23 +17,25 @@ author_profile: true
 
 **One Partition Approximating All \ell_p-norm Objectives in Correlation Clustering**  
 with: Sami Davies and Benjamin Moseley  
-<a href="https://arxiv.org/pdf/2308.01534.pdf"> arXiv August 2023 </a>
+<a href="https://arxiv.org/pdf/2308.01534.pdf"> arXiv </a> 
 
-**Online k-Median with Consistent Clusters**  
+ **Online k-Median with Consistent Clusters**  
   with: Benjamin Moseley and Kirk Pruhs  
-   <a href="http://arxiv.org/abs/2303.15379"> arXiv March 2023 </a>
-   
+   <a href="http://arxiv.org/abs/2303.15379"> arXiv </a> 
+
+ **The Public University Secretary Problem** 
+with: Benjamin Moseley and Kirk Pruhs 
+<a href="https://www.siam.org/conferences/cm/conference/sosa24"> SOSA 2024 </a> 
 
 **Fast Combinatorial Algorithms for Min Max Correlation Clustering**  
   with: Sami Davies and Benjamin Moseley  
- <a href="https://openreview.net/pdf?id=OUjObDqOM2"> **ICML 2023**
- 
+ <a href="https://openreview.net/pdf?id=OUjObDqOM2"> **ICML 2023** 
 
 **Matroid-Based TSP Rounding for Half-Integral Solutions**  
   with: Anupam Gupta, Euiwoong Lee, Jason Li, Marcin Mucha, and Sherry Sarkar  
  <a href="https://link.springer.com/chapter/10.1007/978-3-031-06901-7_23"> **IPCO 2022** </a>,<a href="https://arxiv.org/abs/2111.09290"> full version </a>,<a href="{{ hanewman.github.io }}/_pages/ipcoslides.pptx"> slides </a> 
+ 
 
-  
  **Juvenilia**
  
  In the past, I have worked with Moon Duchin's <a href="https://mggg.org/"> Metric Geometry and Gerrymandering Group, </a> which is a team of Boston-based mathematicians bringing mathematics and computer science methods to bear on redistricting. Here is one fun study that came out of my work with this group: 
