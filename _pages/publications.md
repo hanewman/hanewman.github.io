@@ -23,8 +23,8 @@ with: Sami Davies and Benjamin Moseley
   with: Benjamin Moseley and Kirk Pruhs  
    <a href="http://arxiv.org/abs/2303.15379"> arXiv </a> 
 
- **The Public University Secretary Problem** 
-with: Benjamin Moseley and Kirk Pruhs 
+ **The Public University Secretary Problem**  
+with: Benjamin Moseley and Kirk Pruhs  
 <a href="https://www.siam.org/conferences/cm/conference/sosa24"> SOSA 2024 </a> 
 
 **Fast Combinatorial Algorithms for Min Max Correlation Clustering**  
