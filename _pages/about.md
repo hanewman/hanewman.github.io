@@ -19,10 +19,3 @@ In my free time, I enjoy board games, plays, reading, walks and runs, and learni
 **Service** 
 I have served as a reviewer for AISTATS 2023, ICML 2023, APPROX 2023, NeurIPs 2023, STACS 2024, AISTATS 2024. I was a volunteer at STOC 2022. 
 From Fall 2023--Fall 2024, I co-organized the weekly Meet-and-Think Seminar where ACO/OR PhD students, postdocs, and occasionally professors share their ongoing research. 
-
-
-%Simons Workshop 
-%INFORMS Talk
-%ACORN Talk
-%ICML Poster
-%Teaching updates (evaluations)
