@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 **CMU**
-* Spring 2021, 2022, 2023, Fall 2022: 21-241 Matrices and Linear Transformation (Lead TA 3/4 terms)
+* Spring 2024: 21-292 Operations Research I
+* Spring 2021, 2022, 2023, Fall 2022, 2023: 21-241 Matrices and Linear Transformation (Lead TA 3/4 terms)
 * Fall   2020, 2021: 21-120 Differential and Integral Calculus 
 
 **Tufts** (Guest TA)
