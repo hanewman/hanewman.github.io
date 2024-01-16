@@ -25,7 +25,7 @@ with: Sami Davies and Benjamin Moseley
 
  **The Public University Secretary Problem**  
 with: Benjamin Moseley and Kirk Pruhs  
-<a href="https://www.siam.org/conferences/cm/conference/sosa24"> SOSA 2024 </a> 
+<a href="https://epubs.siam.org/doi/10.1137/1.9781611977936"> SOSA 2024 </a> 
 
 **Fast Combinatorial Algorithms for Min Max Correlation Clustering**  
   with: Sami Davies and Benjamin Moseley  
