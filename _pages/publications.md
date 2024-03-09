@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**One Partition Approximating All \ell_p-norm Objectives in Correlation Clustering**  
+**Simultaneously Approximating All \ell_p-norms in Correlation Clustering**  
 with: Sami Davies and Benjamin Moseley  
 <a href="https://arxiv.org/pdf/2308.01534.pdf"> arXiv </a> 
 
