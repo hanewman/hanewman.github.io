@@ -22,18 +22,23 @@ with: Sami Davies and Benjamin Moseley
  **Online k-Median with Consistent Clusters**  
   with: Benjamin Moseley and Kirk Pruhs  
    <a href="http://arxiv.org/abs/2303.15379"> arXiv </a> 
+   
+**Scheduling Out-Trees Online to Optimize Maximum Flow**  
+with: Kunal Agrawal, Benjamin Moseley, and Kirk Pruhs  
+<a href="https://spaa.acm.org/"> **SPAA 2024** </a>  
 
  **The Public University Secretary Problem**  
 with: Benjamin Moseley and Kirk Pruhs  
-<a href="https://epubs.siam.org/doi/10.1137/1.9781611977936"> SOSA 2024 </a> 
+<a href="https://epubs.siam.org/doi/10.1137/1.9781611977936"> **SOSA 2024** </a>  
 
 **Fast Combinatorial Algorithms for Min Max Correlation Clustering**  
   with: Sami Davies and Benjamin Moseley  
- <a href="https://openreview.net/pdf?id=OUjObDqOM2"> **ICML 2023** 
+ <a href="https://openreview.net/pdf?id=OUjObDqOM2"> **ICML 2023**  
 
 **Matroid-Based TSP Rounding for Half-Integral Solutions**  
   with: Anupam Gupta, Euiwoong Lee, Jason Li, Marcin Mucha, and Sherry Sarkar  
- <a href="https://link.springer.com/chapter/10.1007/978-3-031-06901-7_23"> **IPCO 2022** </a>,<a href="https://arxiv.org/abs/2111.09290"> full version </a>,<a href="{{ hanewman.github.io }}/_pages/ipcoslides.pptx"> slides </a>  
+  **Math Programming Series B** <a href="https://link.springer.com/article/10.1007/s10107-024-02065-4"> (Link) </a>  
+ <a href="https://link.springer.com/chapter/10.1007/978-3-031-06901-7_23"> **IPCO 2022** </a>,<a href="{{ hanewman.github.io }}/_pages/ipcoslides.pptx"> slides </a>  
  **Minor revisions in Math Programming** 
  
 
