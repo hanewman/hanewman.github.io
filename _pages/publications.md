@@ -39,7 +39,6 @@ with: Benjamin Moseley and Kirk Pruhs
   with: Anupam Gupta, Euiwoong Lee, Jason Li, Marcin Mucha, and Sherry Sarkar  
   **Math Programming Series B** <a href="https://link.springer.com/article/10.1007/s10107-024-02065-4"> (Link) </a>  
  <a href="https://link.springer.com/chapter/10.1007/978-3-031-06901-7_23"> **IPCO 2022** </a>,<a href="{{ hanewman.github.io }}/_pages/ipcoslides.pptx"> slides </a>  
- **Minor revisions in Math Programming** 
  
 
  **Juvenilia**
