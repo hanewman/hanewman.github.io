@@ -33,7 +33,7 @@ with: Benjamin Moseley and Kirk Pruhs
 
 **Fast Combinatorial Algorithms for Min Max Correlation Clustering**  
   with: Sami Davies and Benjamin Moseley  
- <a href="https://openreview.net/pdf?id=OUjObDqOM2"> **ICML 2023**, <a href="https://arxiv.org/abs/2301.13079"> arXiv version</a>    
+ <a href="https://openreview.net/pdf?id=OUjObDqOM2"> **ICML 2023**</a>, <a href="https://arxiv.org/abs/2301.13079"> arXiv version</a>    
 
 **Matroid-Based TSP Rounding for Half-Integral Solutions**  
   with: Anupam Gupta, Euiwoong Lee, Jason Li, Marcin Mucha, and Sherry Sarkar  
