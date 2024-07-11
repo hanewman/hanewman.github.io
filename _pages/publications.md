@@ -17,7 +17,7 @@ author_profile: true
 
 **Simultaneously Approximating All lp-norms in Correlation Clustering**  
 with: Sami Davies and Benjamin Moseley  
-<a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2024.52f"> **ICALP 2024** </a>, <a href="https://arxiv.org/pdf/2308.01534.pdf"> arXiv version</a>  
+<a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.52/LIPIcs.ICALP.2024.52.pdf"> arXiv version</a>  
 
  **Online k-Median with Consistent Clusters**  
   with: Benjamin Moseley and Kirk Pruhs  
