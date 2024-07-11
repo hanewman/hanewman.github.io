@@ -15,13 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**Simultaneously Approximating All \ell_p-norms in Correlation Clustering**  
+**Simultaneously Approximating All lp-norms in Correlation Clustering**  
 with: Sami Davies and Benjamin Moseley  
 <a href="https://compose.ioc.ee/icalp2024/"> **ICALP 2024** </a>, <a href="https://arxiv.org/pdf/2308.01534.pdf"> arXiv version</a>  
 
  **Online k-Median with Consistent Clusters**  
   with: Benjamin Moseley and Kirk Pruhs  
-   <a href="http://arxiv.org/abs/2303.15379"> arXiv </a> 
+   <a href="https://approxconference.com/"> **APPROX 2024 </a> 
    
 **Scheduling Out-Trees Online to Optimize Maximum Flow**  
 with: Kunal Agrawal, Benjamin Moseley, and Kirk Pruhs  
