@@ -17,11 +17,13 @@ author_profile: true
 
 **Simultaneously Approximating All lp-norms in Correlation Clustering**  
 with: Sami Davies and Benjamin Moseley  
-<a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.52/LIPIcs.ICALP.2024.52.pdf"> **ICALP 2024** </a>, <a href="https://arxiv.org/pdf/2308.01534"> arXiv version</a>  
+<a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.52/LIPIcs.ICALP.2024.52.pdf"> **ICALP 2024** </a>, <a href="https://arxiv.org/pdf/2308.01534"> arXiv version</a>,<a href="{{ hanewman.github.io }}/_pages/icalp24slides"> slides </a>  
+
 
  **Online k-Median with Consistent Clusters**  
   with: Benjamin Moseley and Kirk Pruhs  
-   <a href="https://approxconference.com/"> **APPROX 2024** </a>,  <a href="https://arxiv.org/abs/2303.15379"> arXiv version</a>  
+   <a href="https://approxconference.com/"> **APPROX 2024** </a>,  <a href="https://arxiv.org/abs/2303.15379"> arXiv version</a>,<a href="{{ hanewman.github.io }}/_pages/approx24slides"> slides </a>  
+
    
 **Scheduling Out-Trees Online to Optimize Maximum Flow**  
 with: Kunal Agrawal, Benjamin Moseley, and Kirk Pruhs  
@@ -29,7 +31,8 @@ with: Kunal Agrawal, Benjamin Moseley, and Kirk Pruhs
 
  **The Public University Secretary Problem**  
 with: Benjamin Moseley and Kirk Pruhs  
-<a href="https://epubs.siam.org/doi/10.1137/1.9781611977936"> **SOSA 2024** </a>  
+<a href="https://epubs.siam.org/doi/10.1137/1.9781611977936"> **SOSA 2024** </a>,<a href="{{ hanewman.github.io }}/_pages/sosa24slides"> slides </a>  
+  
 
 **Fast Combinatorial Algorithms for Min Max Correlation Clustering**  
   with: Sami Davies and Benjamin Moseley  
