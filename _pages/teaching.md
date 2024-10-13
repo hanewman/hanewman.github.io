@@ -11,9 +11,9 @@ redirect_from:
 
 **CMU**  
 <a href="{{ hanewman.github.io }}/_pages/evaluations.pdf"> Evaluations </a>   
-* Spring 2024: 21-292 Operations Research I
-* Spring 2021, 2022, 2023, Fall 2022, 2023, 2024: 21-241 Matrices and Linear Transformation (Lead 5/6 terms)
-* Fall   2020, 2021: 21-120 Differential and Integral Calculus 
+* Spring 2024: Operations Research I
+* Spring 2021, 2022, 2023, Fall 2022, 2023, 2024: Matrices and Linear Transformations (Lead 5/6 terms)
+* Fall   2020, 2021: Differential and Integral Calculus 
 
 **Tufts** (External TA)
 * Spring 2021:  <a href="https://sites.tufts.edu/socialchoice/"> Mathematics of Social Choice </a>
