@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Below you can find a list of my publications, with links to the full papers as well as slides from talks.   
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -22,7 +24,7 @@ with: Sami Davies and Benjamin Moseley
 
  **Online k-Median with Consistent Clusters**  
   with: Benjamin Moseley and Kirk Pruhs  
-   <a href="https://approxconference.com/"> **APPROX 2024** </a>,  <a href="https://arxiv.org/abs/2303.15379"> arXiv version</a>,<a href="{{ hanewman.github.io }}/_pages/approx24slides.pdf"> slides </a>  
+   <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol317-approx-random2024/LIPIcs.APPROX-RANDOM.2024.20/LIPIcs.APPROX-RANDOM.2024.20.pdf"> **APPROX 2024** </a>,  <a href="https://arxiv.org/abs/2303.15379"> arXiv version</a>,<a href="{{ hanewman.github.io }}/_pages/approx24slides.pdf"> slides </a>  
 
    
 **Scheduling Out-Trees Online to Optimize Maximum Flow**  
@@ -48,10 +50,10 @@ with: Benjamin Moseley and Kirk Pruhs
  
  In the past, I have worked with Moon Duchin's <a href="https://mggg.org/"> Metric Geometry and Gerrymandering Group, </a> which is a team of Boston-based mathematicians bringing mathematics and computer science methods to bear on redistricting. Here is one fun study that came out of my work with this group: 
 
-<a href="{{ hanewman.github.io }}/_pages/elj.pdf">  Locating the Representational Baseline: Republicans in Massachusetts </a> in Election Law Journal 
+<a href="{{ hanewman.github.io }}/_pages/elj.pdf">  Locating the Representational Baseline: Republicans in Massachusetts </a> in Election Law Journal.   
  
 My dissertation in fulfillment of requirements for the Oxford M.Sc. is an exposition on the Chromatic Number of String Graphs.
 
-My undergraduate senior thesis at Princeton: <a href="http://arks.princeton.edu/ark:/88435/dsp016m311s13g"> Limiting Distribution of the Complex Roots of Random Polynomials  </a> 
+My undergraduate senior thesis at Princeton: <a href="http://arks.princeton.edu/ark:/88435/dsp016m311s13g"> Limiting Distribution of the Complex Roots of Random Polynomials  </a>. 
  
 

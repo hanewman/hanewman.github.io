@@ -12,13 +12,13 @@ redirect_from:
 **CMU**  
 <a href="{{ hanewman.github.io }}/_pages/evaluations.pdf"> Evaluations </a>   
 * Spring 2024: 21-292 Operations Research I
-* Spring 2021, 2022, 2023, Fall 2022, 2023, 2024: 21-241 Matrices and Linear Transformation (Lead TA 5/6 terms)
+* Spring 2021, 2022, 2023, Fall 2022, 2023, 2024: 21-241 Matrices and Linear Transformation (Lead 5/6 terms)
 * Fall   2020, 2021: 21-120 Differential and Integral Calculus 
 
-**Tufts** (Guest TA)
+**Tufts** (External TA)
 * Spring 2021:  <a href="https://sites.tufts.edu/socialchoice/"> Mathematics of Social Choice </a>
 
 
 **Princeton**
-* Fall   2016, 2017, 2018: MAT 215 Honors Analysis (Lead TA 2017, 2018)
-* Spring 2017, 2018, 2019: MAT 217 Honors Linear Algebra (Lead TA 2018, 2019)
+* Fall   2016, 2017, 2018: MAT 215 Honors Analysis (Lead 2017, 2018)
+* Spring 2017, 2018, 2019: MAT 217 Honors Linear Algebra (Lead 2018, 2019)
