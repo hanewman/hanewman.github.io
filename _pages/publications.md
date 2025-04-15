@@ -17,6 +17,10 @@ Below you can find a list of my publications, with links to the full papers as w
   {% include archive-single.html %}
 {% endfor %}
 
+**Robust Gittins for Stochastic Scheduling**  
+with: Benjamin Moseley, Kirk Pruhs, and Rudy Zhou  
+<a href="{{ hanewman.github.io }}/_pages/gittins"> **SIGMETRICS 2025** </a>  
+
 **Simultaneously Approximating All lp-norms in Correlation Clustering**  
 with: Sami Davies and Benjamin Moseley  
 <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.52/LIPIcs.ICALP.2024.52.pdf"> **ICALP 2024** </a>, <a href="https://arxiv.org/pdf/2308.01534"> arXiv version</a>,<a href="{{ hanewman.github.io }}/_pages/icalp24slides.pdf"> slides </a>  
