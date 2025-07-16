@@ -19,7 +19,7 @@ Below you can find a list of my publications, with links to the full papers as w
 
 **Robust Gittins for Stochastic Scheduling**  
 with: Benjamin Moseley, Kirk Pruhs, and Rudy Zhou  
-<a href="{{ hanewman.github.io }}/_pages/gittins.pdf"> **SIGMETRICS 2025** </a>,<a href="{{ hanewman.github.io }}/_pages/SIGMETRICS2025"> slides </a>    
+<a href="{{ hanewman.github.io }}/_pages/gittins.pdf"> **SIGMETRICS 2025** </a>,<a href="{{ hanewman.github.io }}/_pages/SIGMETRICS2025.pdf"> slides </a>    
 
 **Simultaneously Approximating All lp-norms in Correlation Clustering**  
 with: Sami Davies and Benjamin Moseley  
