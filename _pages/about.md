@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assistant Professor at Vassar College. 
+Welcome! I am an Assistant Professor of Computer Science at Vassar College. 
 
 I obtained my PhD from the unique interdisciplinary <a href="https://www.cmu.edu/math/aco/index.html"> Algorithms, Combinatorics, and Optimization (ACO) </a> doctoral program (via Math department) at Carnegie Mellon (CMU), where I was fortunate to be advised by <a href="https://www.andrew.cmu.edu/user/moseleyb/"> Ben Moseley. </a>
 
