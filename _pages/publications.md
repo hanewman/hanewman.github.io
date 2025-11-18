@@ -19,11 +19,11 @@ Below you can find a list of my publications, with links to the full papers as w
 
 **Fast Combinatorial Algorithms for Simultaneously Approximating All lp-Norms in Correlation Clustering**  
 with: Sami Davies and Benjamin Moseley    
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0567"> Mathematics of Operations Research<</a>    
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0567"> Mathematics of Operations Research </a>    
 
 **Online Correlation Clustering: Simultaneously Optimizing All lp-norms**  
 with: Sami Davies and Benjamin Moseley    
-<a href="https://www.arxiv.org/abs/2510.15076"> arXiv 2025/a>   
+<a href="https://www.arxiv.org/abs/2510.15076"> arXiv 2025 </a>   
 
 **Robust Gittins for Stochastic Scheduling**  
 with: Benjamin Moseley, Kirk Pruhs, and Rudy Zhou  
