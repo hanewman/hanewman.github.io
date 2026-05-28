@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Vassar** (Sole Instructor)
-* Fall 2025, Spring 2026, Fall 2026: Data Structures and Algorithms (<a href="{{ hanewman.github.io }}/_pages/Course-Evals-f25-102.pdf"> Evaluations </a>)
+* Fall 2025, Spring 2026, Fall 2026: Data Structures and Algorithms (<a href="{{ hanewman.github.io }}/_pages/Course-Evals-f25-102.pdf">Evaluations</a>)
 * Spring 2026: Analysis of Algorithms
 * Fall 2026: Discrete Optimization
 
