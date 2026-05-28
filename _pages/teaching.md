@@ -9,16 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-**CMU**  
+**Vassar** (Sole Instructor)
+* Fall 2025, Spring 2026, Fall 2026: Data Structures and Algorithms (<a href="{{ hanewman.github.io }}/_pages/Course-Evals-f25-102.pdf"> Evaluations </a>)
+* Spring 2026: Analysis of Algorithms
+* Fall 2026: Discrete Optimization
+
+**CMU** (Graduate TA)
 <a href="{{ hanewman.github.io }}/_pages/evaluations.pdf"> Evaluations </a>   
 * Spring 2024: Operations Research I
 * Spring 2021, 2022, 2023, Fall 2022, 2023, 2024: Matrices and Linear Transformations (Lead 5/6 terms)
 * Fall   2020, 2021: Differential and Integral Calculus 
 
-**Tufts** (External TA)
-* Spring 2021:  <a href="https://sites.tufts.edu/socialchoice/"> Mathematics of Social Choice </a>
+%**Tufts** (External TA)
+%* Spring 2021:  <a href="https://sites.tufts.edu/socialchoice/"> Mathematics of Social Choice </a>
 
 
-**Princeton**
-* Fall   2016, 2017, 2018: MAT 215 Honors Analysis (Lead 2017, 2018)
-* Spring 2017, 2018, 2019: MAT 217 Honors Linear Algebra (Lead 2018, 2019)
+%**Princeton** (Undergraduate TA)
+%* Fall   2016, 2017, 2018: MAT 215 Honors Analysis (Lead 2017, 2018)
+%* Spring 2017, 2018, 2019: MAT 217 Honors Linear Algebra (Lead 2018, 2019)
