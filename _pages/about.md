@@ -19,7 +19,7 @@ Before my PhD, I received an A.B. in Mathematics, with a minor in Computer Scien
 
 <h1 class="page__title">News</h1>
 
-- Jul 2026: Presented the paper *Online Correlation Clustering: Simultaneously Optimizing All lp-norms* at ICALP 2026
-- Jun 2026: Attended MAPSP 2026 workshop, where I also spoke on *Robust Gittins for Stochastic Scheduling*
-- Mar 2026: Invited seminar on New Trends in Clustering at Dagstuhl, where I also spoke on a series of works on lp-norm correlation clustering 
-- Jul 2025: Started as an Assistant Professor at Vassar! 
+- **Jul 2026**: Presented the paper *Online Correlation Clustering: Simultaneously Optimizing All lp-norms* at ICALP 2026
+- **Jun 2026**: Attended MAPSP 2026 workshop, where I also spoke on *Robust Gittins for Stochastic Scheduling*
+- **Mar 2026**: Invited seminar on New Trends in Clustering at Dagstuhl, where I also spoke on a series of works on lp-norm correlation clustering 
+- **Jul 2025**: Started as an Assistant Professor at Vassar! 
