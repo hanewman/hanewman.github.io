@@ -51,7 +51,7 @@ SIAM Symposium on Simplicity in Algorithms (SOSA) 2024 <a href="https://epubs.si
 
 *Fast Combinatorial Algorithms for Min Max Correlation Clustering*  
   with: Sami Davies and Benjamin Moseley  
-International Conference on Machine Learning (Link) <a href="https://openreview.net/pdf?id=OUjObDqOM2" style="font-style: normal;">(Link)</a>, <a href="https://arxiv.org/abs/2301.13079" style="font-style: normal;">(arXiv)</a>    
+International Conference on Machine Learning (ICML) 2023 <a href="https://openreview.net/pdf?id=OUjObDqOM2" style="font-style: normal;">(Link)</a>, <a href="https://arxiv.org/abs/2301.13079" style="font-style: normal;">(arXiv)</a>    
 
 *Matroid-Based TSP Rounding for Half-Integral Solutions*  
   with: Anupam Gupta, Euiwoong Lee, Jason Li, Marcin Mucha, and Sherry Sarkar  
