@@ -17,55 +17,47 @@ Below you can find a list of my publications, with links to the full papers as w
   {% include archive-single.html %}
 {% endfor %}
 
-**Online Correlation Clustering: Simultaneously Optimizing All lp-norms**  
+*Online Correlation Clustering: Simultaneously Optimizing All lp-norms*  
 with: Sami Davies and Benjamin Moseley    
-**ICALP 2026**, <a href="https://www.arxiv.org/abs/2510.15076"> arXiv version </a>   
+International Colloquium on Automata, Languages, and Programming (ICALP) 2026 <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2026.73"> (Link) </a>  <a href="https://www.arxiv.org/abs/2510.15076"> (arXiv) </a>   
 
-**Fast Combinatorial Algorithms for Simultaneously Approximating All lp-Norms in Correlation Clustering**  
+*Fast Combinatorial Algorithms for Simultaneously Approximating All lp-Norms in Correlation Clustering*  
 with: Sami Davies and Benjamin Moseley    
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0567"> Mathematics of Operations Research </a>    
+Mathematics of Operations Research 2025 <a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0567"> (Link) </a>    
 
-**Robust Gittins for Stochastic Scheduling**  
+*Robust Gittins for Stochastic Scheduling*  
 with: Benjamin Moseley, Kirk Pruhs, and Rudy Zhou  
-<a href="{{ hanewman.github.io }}/_pages/gittins.pdf"> **SIGMETRICS 2025** </a>,<a href="{{ hanewman.github.io }}/_pages/SIGMETRICS2025.pdf"> slides </a>    
+Sigmetrics 2025 <a href="https://dl.acm.org/doi/10.1145/3726854.3727315"> (Link) </a> <a href="https://arxiv.org/abs/2504.10743"> (arXiv) </a>    
 
-**Simultaneously Approximating All lp-norms in Correlation Clustering**  
+*Simultaneously Approximating All lp-norms in Correlation Clustering*  
 with: Sami Davies and Benjamin Moseley  
-<a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.52/LIPIcs.ICALP.2024.52.pdf"> **ICALP 2024** </a>, <a href="https://arxiv.org/pdf/2308.01534"> arXiv version</a>,<a href="{{ hanewman.github.io }}/_pages/icalp24slides.pdf"> slides </a>  
+International Colloquium on Automata, Languages, and Programming (ICALP) 2024 <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2024.52"> (Link) </a> <a href="https://arxiv.org/pdf/2308.01534"> (arXiv) </a> <a href="{{ hanewman.github.io }}/_pages/icalp24slides.pdf"> (Slides) </a>  
 
 
- **Online k-Median with Consistent Clusters**  
+ *Online k-Median with Consistent Clusters*  
   with: Benjamin Moseley and Kirk Pruhs  
-   <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol317-approx-random2024/LIPIcs.APPROX-RANDOM.2024.20/LIPIcs.APPROX-RANDOM.2024.20.pdf"> **APPROX 2024** </a>,  <a href="https://arxiv.org/abs/2303.15379"> arXiv version</a>,<a href="{{ hanewman.github.io }}/_pages/approx24slides.pdf"> slides </a>  
+ International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX) 2024  <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol317-approx-random2024/LIPIcs.APPROX-RANDOM.2024.20/LIPIcs.APPROX-RANDOM.2024.20.pdf"> (Link) </a>  <a href="https://arxiv.org/abs/2303.15379"> (arXiv) </a> <a href="{{ hanewman.github.io }}/_pages/approx24slides.pdf"> (Slides) </a>  
 
    
-**Scheduling Out-Trees Online to Optimize Maximum Flow**  
+*Scheduling Out-Trees Online to Optimize Maximum Flow*  
 with: Kunal Agrawal, Benjamin Moseley, and Kirk Pruhs  
-<a href="https://dl.acm.org/doi/10.1145/3626183.3659955"> **SPAA 2024** </a>  
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2024 <a href="https://dl.acm.org/doi/10.1145/3626183.3659955"> (Link) </a>  
 
- **The Public University Secretary Problem**  
+ *The Public University Secretary Problem*  
 with: Benjamin Moseley and Kirk Pruhs  
-<a href="https://epubs.siam.org/doi/10.1137/1.9781611977936"> **SOSA 2024** </a>,<a href="{{ hanewman.github.io }}/_pages/sosa24slides.pdf"> slides </a>  
+SIAM Symposium on Simplicity in Algorithms (SOSA) 2024 <a href="https://epubs.siam.org/doi/10.1137/1.9781611977936"> (Link) </a> <a href="{{ hanewman.github.io }}/_pages/sosa24slides.pdf"> (Slides) </a>  
   
 
-**Fast Combinatorial Algorithms for Min Max Correlation Clustering**  
+*Fast Combinatorial Algorithms for Min Max Correlation Clustering*  
   with: Sami Davies and Benjamin Moseley  
- <a href="https://openreview.net/pdf?id=OUjObDqOM2"> **ICML 2023**</a>, <a href="https://arxiv.org/abs/2301.13079"> arXiv version</a>    
+International Conference on Machine Learning (Link) <a href="https://openreview.net/pdf?id=OUjObDqOM2"> (Link) </a> <a href="https://arxiv.org/abs/2301.13079"> (arXiv) </a>    
 
-**Matroid-Based TSP Rounding for Half-Integral Solutions**  
+*Matroid-Based TSP Rounding for Half-Integral Solutions*  
   with: Anupam Gupta, Euiwoong Lee, Jason Li, Marcin Mucha, and Sherry Sarkar  
-  **Math Programming Series B** <a href="https://link.springer.com/article/10.1007/s10107-024-02065-4"> (Link) </a>  
- <a href="https://link.springer.com/chapter/10.1007/978-3-031-06901-7_23"> **IPCO 2022** </a>,<a href="https://arxiv.org/abs/2111.09290"> arXiv version</a>,<a href="{{ hanewman.github.io }}/_pages/ipcoslides.pptx"> slides </a>   
+  Math Programming Series B 2024 <a href="https://link.springer.com/article/10.1007/s10107-024-02065-4"> (Link) </a>  
+  Preliminary version in Integer Programming and Combinatorial Optimization (IPCO) 2022  <a href="https://link.springer.com/chapter/10.1007/978-3-031-06901-7_23"> (Link) </a> <a href="{{ hanewman.github.io }}/_pages/ipcoslides.pptx"> (Slides) </a>   
  
 
- **Juvenilia**
- 
- In the past, I have worked with Moon Duchin's <a href="https://mggg.org/"> Metric Geometry and Gerrymandering Group, </a> which is a team of Boston-based mathematicians bringing mathematics and computer science methods to bear on redistricting. Here is one fun study that came out of my work with this group: 
 
-<a href="{{ hanewman.github.io }}/_pages/elj.pdf">  Locating the Representational Baseline: Republicans in Massachusetts </a> in Election Law Journal.   
- 
-My dissertation in fulfillment of requirements for the Oxford M.Sc. is an exposition on the Chromatic Number of String Graphs.
-
-My undergraduate senior thesis at Princeton: <a href="http://arks.princeton.edu/ark:/88435/dsp016m311s13g"> Limiting Distribution of the Complex Roots of Random Polynomials  </a>. 
  
 
