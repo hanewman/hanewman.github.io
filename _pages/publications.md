@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style> a { text-decoration: none; } </style> 
 
 Below you can find a list of my publications, with links to the full papers as well as slides from talks.   
 
